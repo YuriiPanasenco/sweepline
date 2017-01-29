@@ -1,5 +1,5 @@
 {
-  "name": "@socialtables/bentley-ottman",
+  "name": "bentley-ottman",
   "version": "1.0.0",
   "description": "Bentley-Ottman Algorithm for Validating Self-Intersections in Polygons",
   "main": "index.js",
