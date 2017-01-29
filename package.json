@@ -1,6 +1,6 @@
 {
   "name": "bentley-ottman",
-  "version": "2.0.0",
+  "version":  "0.2.2",
   "description": "Bentley-Ottman Algorithm for Validating Self-Intersections in Polygons",
   "main": "index.js",
   "engines": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ahlusar1989/bentley-ottman.git"
+    "url": "git+https://github.com/ahlusar1989/sweepline.git"
   },
   "keywords": [
     "algorithms",
@@ -25,9 +25,9 @@
   ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ahlusar1989/bentley-ottman/issues"
+    "url": "https://github.com/ahlusar1989/sweepline/issues"
   },
-  "homepage": "https://github.com/ahlusar1989/bentley-ottman#readme",
+  "homepage": "https://github.com/ahlusar1989/sweepline#readme",
   "dependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.2.0"
