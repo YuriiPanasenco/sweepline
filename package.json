@@ -1,6 +1,6 @@
 {
   "name": "bentley-ottman",
-  "version":  "0.2.2",
+  "version":  "0.2.3",
   "description": "Bentley-Ottman Algorithm for Validating Self-Intersections in Polygons",
   "main": "index.js",
   "engines": {
