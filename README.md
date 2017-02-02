@@ -16,7 +16,7 @@ Notable Changes to Implementation
 1. ECMAScript classes that provide a much simpler and clearer syntax to create objects and deal with inheritance.
 2. Point: refactor the `isLeftofSegment` of Class `Point` as a static method.
 3. Polygon: fix implicit global variables; rename `simple_polygon` to `isSimplePolygon`; refactor the logic according to the rest of the classes.
-4. RedBlackTree: fix the implicit global variables in Kevin Lindsey's implementation
+4. RedBlackTree: fix the implicit global variables in Kevin Lindsey's implementation.
 5. Sweepline: Rename to Bentley-Ottman; improvements to SweepLine and SweepLine segment logic; refactor the logic according to the new constructor patterns.
 6. EventQueue: add the `next` method; refactor the logic according to the new constructor pattern.
 7. Updates to the test specification for floor plan data.
@@ -32,7 +32,7 @@ In use is a variant with a Red-Black tree in lieu of the AVL tree. It has some a
 
 Tests
 ======
-To run tests, please ensure that you have node.js, mocha, chai and npm installed:
+To run tests, please ensure that you have `node.js`, `mocha`, `chai` and `npm` installed:
 
 $ npm test
 
@@ -41,4 +41,6 @@ Note that this implementation currently doesn't validate polygons that share the
 
 License
 ========
-Public Domain
+This project is in the worldwide [public domain](LICENSE.md). 
+
+> This project is in the public domain within the United States, and copyright and related rights in the work worldwide are waived through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).
